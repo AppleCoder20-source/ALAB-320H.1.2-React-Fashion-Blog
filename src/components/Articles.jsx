@@ -29,7 +29,7 @@ export const articles = [{
                 className="img-fluid"
                 alt={article.alt}
               />
-              <article>{article.text}</article>
+              <p>{article.text}</p>
             </li>
           ))}
         </ul>
