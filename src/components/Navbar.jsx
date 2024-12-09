@@ -1,7 +1,6 @@
 export default function Navbar() {
     return (
         <div>
-
             <ul className = "nav flex-row" id= "navid">
                 <li className= "nav-color">
                     <a className="nav-link" href="#">Womens</a>
