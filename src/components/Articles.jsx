@@ -26,7 +26,6 @@ export const articles = [{
               <h2>{article.title}</h2>
               <img
                 src={article.image}
-                className="img-fluid"
                 alt={article.alt}
               />
               <p>{article.text}</p>
